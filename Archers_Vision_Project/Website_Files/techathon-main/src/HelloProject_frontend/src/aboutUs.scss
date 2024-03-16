@@ -1,0 +1,44 @@
+.aboutUs-page {
+    height: 100vh;
+    width: full;
+    background: rgb(240, 236, 236);
+    overflow: hidden;
+    position: relative;
+}
+
+.aboutImg {
+width: 800px;
+position: absolute;
+left: -90px;
+}
+
+.about-txt {
+    font-family: sand;
+    font-size: 120px;
+    font-weight: 800;
+    position: absolute;
+    z-index: 2;
+    top: 30px;
+    left:840px;
+    letter-spacing: 5px;
+}
+
+.about-para {
+    position: absolute;
+    top: 220px;
+    left: 840px;
+    font-family: sand;
+    font-size: 18px;
+    line-height: 24px;
+    padding-right: 80px;
+}
+
+.about-para-down {
+    position: absolute;
+    top: 280px;
+    line-height: 24px;
+
+    font-family: sand;
+    font-size: 18px;
+    padding-right: 80px; 
+}
